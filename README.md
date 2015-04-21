@@ -6,4 +6,4 @@
 3. learn3 for计数循环，do-while循环
 4. learn4 break与continue语句（break直接跳出，而continue是跳出本次循环，继续下一个循环）
 5. CFunction 函数的创建于调用
-6. 
+6. classAndObject的创建于调用
